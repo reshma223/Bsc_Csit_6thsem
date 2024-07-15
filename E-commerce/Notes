@@ -1,0 +1,9 @@
+xampp-mysql apache at once server start
+browser-localhost/phpmyadmin
+
+if in xampp- mysql and apache doesnt run at once then
+open command prompt- mysql open and create and insert data
+
+Local Disk C - xampp - htdocs- (folder(Create))E-commerce - user.php
+
+run- open xampp- apache start-, browser- localhost/E-commerce/user.php
