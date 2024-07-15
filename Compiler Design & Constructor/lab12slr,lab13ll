@@ -1,0 +1,13 @@
+Lab 12: Construct SLR(1) parsing table of the following grammar.
+S→AA
+A →aA
+A →b
+
+
+Lab 13: Determine if the grammar is LL(1) Grammar.
+S → aAc
+A → aAbB
+A → 
+B → bB
+B →c
+
